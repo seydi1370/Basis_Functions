@@ -1,4 +1,4 @@
-
+##  Exploring the Potential of Polynomial Basis Functions in Kolmogorov-Arnold Networks: A Comparative Study of Different Groups of Polynomials
 ## Overview
 
 This packaege investigates the performance of 18 different polynomial basis functions, grouped into several categories based on their mathematical properties and areas of application. The study evaluates the effectiveness of these polynomial-based KANs on the MNIST dataset for handwritten digit classification.
